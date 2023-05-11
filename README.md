@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 - :computer: I'm a software engineering student based in Istanbul.
-- 🔭 I’m currently working and learning on game development and backend web development.
+- 🔭 I’m currently working and learning on game development and game art.
 
 
 ### :hammer_and_wrench: Languages and Tools :
