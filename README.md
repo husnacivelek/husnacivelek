@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 <img src= "https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity"  alt="Unity" width="40" height="40"/>&nbsp;
    <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
    <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" title="Dotnet"  alt="Dotnet" width="40" height="40"/>&nbsp;
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop"  alt="Photoshop" width="40" height="40"/>&nbsp;
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva"  alt="Canva" width="40" height="40"/>&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio"  alt="VisualStudio" width="40" height="40"/>&nbsp;
    <img src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>
   
