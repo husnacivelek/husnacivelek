@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### :woman_technologist: About Me :
-- :computer: I'm a software engineering student based in Istanbul.
+- :computer: I'm a software engineer based in Istanbul.
 - 🔭 I’m currently working and learning on game development and game art.
 
 
